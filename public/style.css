@@ -1,0 +1,42 @@
+html {
+  font-family: "Times New Roman";
+}
+
+nav {
+  background-color: #A9D0F5;
+  color: #fff;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+nav ul li {
+  font-weight: bold;
+  list-style-type: none;
+    display: inline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: #020b63 4px solid;
+}
+
+h1 {
+  color: #A9D0F5;
+  font-weight: bold;
+  text-shadow: 1px 1px #020b63;
+  text-align: center;
+  margin-top: auto;
+  font-size: 36px;
+}
+
+section {
+  margin: 44px 2px 0px 2px;
+  padding: 5px 20px;
+}
+
+p {
+  color: #A9D0F5;
+  font-weight: bold;
+  font-size: 20px;
+}
